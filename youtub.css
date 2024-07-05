@@ -1,0 +1,238 @@
+body{
+    margin: 0px;
+    height: 100%;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 52px;
+}
+
+.nav-icon{
+    width: 22px;
+    height: 3px;
+    background-color: white;
+    margin: 5px;
+}
+.nav-button{
+    margin-top: 12px;
+    border: none;
+    background-color: black;
+    cursor: pointer;
+}
+.nav-button:hover{
+    background-color: rgb(40, 39, 39);
+}
+.nav-div{
+    float: left;
+}
+.yt-logo{
+    width: 75px;
+    height: 26px;
+    float: left;
+}
+.logo-svg{
+    padding-left: 57px;
+    padding-top: 17px;
+}
+.search-bar-div{
+    margin-top: -10px;
+    float: left;
+}
+.search-bar{
+    margin-left: 346px;
+    width: 510px;
+    border-radius: 30px;
+    height: 33px;
+    background-color: rgb(26, 21, 21);
+    border-style: solid;
+    border-color: rgb(68, 67, 66);
+    color: white;
+    padding-left: 30px;
+    font-size: 18px;
+}
+.search-icon{
+    width: 16px;
+    height: 14px;
+}
+.search-btn-div{
+    margin-left: 814px;
+    margin-top: -30px;
+}
+.search-btn{
+    border: none;
+    border-radius: 28px;
+    height: 28px;
+    width: 37px;
+    background-color: rgb(26, 21, 21);
+    border-color: rgb(68, 67, 66);
+    color: rgb(246, 236, 236);
+}
+.voice-btn{
+    width: 30px;
+    background-color: rgb(26, 21, 21);
+    border-radius: 22px;
+    font-size: 16px;
+    height: 33px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.voice-btn:hover{
+    background-color: rgb(40, 39, 39);
+}
+.voice-btn-div{
+    margin-left: 1000px;
+    margin-top: -10px;
+    border-radius: 28px;
+
+}
+.creative-btn{
+    width: 40px;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+}
+.creative-btn:hover{
+    background-color: rgb(40, 39, 39);
+}
+.creative-btn-div{
+    margin-top: -32px;
+    margin-left: 1369px;
+}
+.notfication-btn-div{
+    margin-left: 1418px;
+    margin-top: -36px;
+}
+.notfication-btn{
+    width: 40px;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+}
+.notfication-btn:hover{
+    background-color: rgb(40, 39, 39);
+}
+.profile{
+    width: 33px;
+    height: 30px;
+    border-radius: 38px;
+}
+.profile-div{
+    margin-left: 1469px;
+    margin-top: -34px;
+}
+.side-bar{
+    background-color: black;
+    width: 60px;
+    height: 328vh;
+    float: left;
+}
+.side-btn{
+    width: 40px;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 9px;
+    margin-top: 30px;
+    margin-left: 7px; 
+}
+.side-btn:hover{
+    background-color: rgb(40, 39, 39);
+}
+.sub-label{
+   margin-left: -11px;
+}
+.suggection-main-div{
+    background-color: black;
+    height: 30px;
+}
+.suggection{
+    margin-left: 20px;
+    background-color: white;
+    padding: 6px 11px 6px 11px;
+    border-radius: 11px;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+.suggection2{
+    margin-left: 20px;
+    background-color: rgb(52, 52, 52);
+    padding: 6px 11px 6px 11px;
+    border-radius: 11px;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+}
+.suggection-div{
+    float: left;
+}
+.suggection-div-2{
+    float: left;
+    margin-left: -10px;
+}
+.content{
+    width: 100%;
+    height: 328vh;
+    background-color: #0f0f0f;;
+}
+.thumbline{
+    width: 340px;
+    height: 187px;
+    border-radius: 12px;
+    transition:  0.3s ease;
+}
+.thumbline:hover{
+    transform: scale(0.8);
+}
+
+.thumbline-div{
+    float: left;
+    margin-left: 19px;
+    margin-top: 28px;
+}
+.thumbline-profile-img-div{
+    width: 45px;
+    height: 42px;
+    border-radius: 30px;
+    margin-top: 6px;
+}
+.thumbline-profile-div{
+    float: left;
+}
+.thumbline-text-div{
+    width: 265px;
+    margin-left: 10PX;
+    float: left;
+}
+.thumbline-text{
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+}
+.thumbline-nametime{
+    font-size: 10px;
+    font-family: "Roboto", "Arial", sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.thumbline-nametime-div{
+    margin-left: 55px;
+    margin-top: 48px;
+}
+.more-btn-div{
+    float: left;
+}
+.more-btn{
+    background-color: #0f0f0f;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
